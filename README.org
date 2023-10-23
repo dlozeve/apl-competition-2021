@@ -1,0 +1,5 @@
+* Dyalog APL Problem Solving Competition 2021
+
+My solutions for the [[https://www.dyalogaplcompetition.com/][2021 APL Problem Solving Competition]].
+
+- Phase I: [[phase1.dyalog]]
